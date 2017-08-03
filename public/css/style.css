@@ -30,7 +30,9 @@ float: left;
 width: 100%;
 float: left;
 }
-
+.logo{
+	background: url(../images/logo.png) center no-repeat;
+}
 
 
 .header{
