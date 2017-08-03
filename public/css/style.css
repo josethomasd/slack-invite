@@ -96,7 +96,7 @@ color: #000000
 }
 
 .field{
-width: 448px;
+width: 440px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 border: none;
 font-style: italic;
@@ -129,8 +129,8 @@ outline: none;
 .submit{
 position: absolute;
 right: 15px;
-top: 12px;
-padding: 6px 18px;
+top: 6px;
+padding: 10px 18px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 background: #358ea4;
 border: none;
@@ -142,7 +142,7 @@ cursor: pointer;
 
 
 .submit:hover{
-background: #eeeeee;
+background: #1c798f;
 }
 
 .error {
