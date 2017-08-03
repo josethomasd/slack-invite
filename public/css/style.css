@@ -30,16 +30,14 @@ float: left;
 width: 100%;
 float: left;
 }
-.logo{
-	background: url(../images/logo.png) center no-repeat;
-}
-
 
 .header{
 	margin-top: 160px;
 	margin-bottom: 40px;
 }
-
+img{
+	background: url(../images/logo.png) center no-repeat;
+}
 
 h1{
 font-family: 'Open Sans', sans-serif;
