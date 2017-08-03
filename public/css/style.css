@@ -92,6 +92,7 @@ display: block;
 position: relative;
 width: 478px;
 margin-top: 20px;
+color: #000000
 }
 
 .field{
@@ -128,8 +129,8 @@ outline: none;
 .submit{
 position: absolute;
 right: 15px;
-top: 13px;
-padding: 3px 10px;
+top: 12px;
+padding: 6px 18px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 background: #358ea4;
 border: none;
