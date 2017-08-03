@@ -31,7 +31,7 @@ width: 100%;
 float: left;
 }
 .logo{
-	background: url(../images/logo.png) center no-repeat;
+	background: url(../images/logo.png) top no-repeat;
 }
 
 
@@ -96,7 +96,7 @@ margin-top: 20px;
 
 .field{
 background: url(../images/field.png) repeat;
-width: 488px;
+width: 475px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 border: none;
 font-style: italic;
@@ -129,8 +129,8 @@ outline: none;
 .submit{
 position: absolute;
 right: 15px;
-top: 13px;
-padding: 3px 10px;
+top: 15px;
+padding: 5px 12px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 background: #ffffff;
 border: none;
