@@ -18,6 +18,7 @@ router.post('/invite', function(req, res) {
           token: config.slacktoken,
 	  set_active: true
         }
+        channels: 'C6HGPLF9T, C6JFP4E95'
       }, function(err, httpResponse, body) {
         // body looks like:
         //   {"ok":true}
