@@ -30,10 +30,6 @@ float: left;
 width: 100%;
 float: left;
 }
-.logo{
-	background: url(../images/logo.png) top no-repeat;
-}
-
 
 .header{
 	margin-top: 160px;
@@ -45,14 +41,14 @@ h1{
 font-family: 'Open Sans', sans-serif;
 color: #fff;
 text-align: center;
-font-size: 50px;
+font-size: 55px;
 font-weight: 300;
 margin: 0 0 10px 0;
 }
 
 
 h1 strong{
-font-size: 38px;
+font-size: 42px;
 font-weight: 700;
 }
 
@@ -128,9 +124,9 @@ outline: none;
 
 .submit{
 position: absolute;
-right: 15px;
-top: 15px;
-padding: 5px 12px;
+right: -25px;
+top: 18px;
+padding: 8px 20px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 background: #ffffff;
 border: none;
