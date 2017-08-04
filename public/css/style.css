@@ -133,7 +133,9 @@ cursor: pointer;
 .submit:hover{
 background: #1c798f;
 }
-
+.img{
+  margin-left: 10px
+}
 .error {
   color: #FE7070;
   font-weight: 700;
