@@ -136,7 +136,8 @@ cursor: pointer;
 background: #1c798f;
 }
 .img{
-  margin-left: 60px
+    margin-left: 65px;
+    margin-top: 8px;
 }
 .error {
   color: #FE7070;
